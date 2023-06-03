@@ -1,0 +1,17 @@
+{
+    "name": "TetrisFinalsReq",
+    "short_name": "TetrisFinalsReq",
+    "description": "A simple Tetris game",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#000",
+    "icons": [
+      {
+        "src": "icon.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
