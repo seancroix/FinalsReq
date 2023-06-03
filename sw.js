@@ -1,4 +1,4 @@
-var cacheName = 'itst-finalsreq';
+var cacheName = 'Sampaloc Lake Virtual Tour';
 var filesToCache = [
   '/',
   '/index.html',
